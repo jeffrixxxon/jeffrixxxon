@@ -39,5 +39,5 @@
 
 :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeffrixxxon&theme=tokyonight)](https://git.io/streak-stats)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeffrixxxon&theme=tokyonight)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrixxxon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
