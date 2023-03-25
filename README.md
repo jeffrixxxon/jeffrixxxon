@@ -18,7 +18,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-:man_technologist: About Me : My name is Daniel. I am learning the Python programming language. I am also studying Selenium Webdriver and Django libraries.
+:man_technologist: About Me : My name is Daniil. I am learning the Python programming language. I am also studying Selenium Webdriver and Django libraries.
 
 - :seedling: Exploring Technical Content Writing.
 
